@@ -49,6 +49,13 @@ body {
   font-size: 20px;
   margin: 25px 0 0 120px;
   color: #fff;
+  text-transform: uppercase;
+}
+
+.profile-name span {
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: none;
 }
 
 .about {
@@ -78,6 +85,11 @@ body {
 .btn:hover {
   background: #7ce3ff;
   color: #222;
+}
+
+.rateUs {
+  background: #7ce3ff !important;
+  color: #222 !important;
 }
 
 .icons {
